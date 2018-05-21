@@ -3,7 +3,7 @@ require "formula"
 class Gpshell < Formula
   homepage "http://sourceforge.net/p/globalplatform/wiki/Home/"
   url "https://downloads.sourceforge.net/project/globalplatform/GPShell/GPShell-1.4.4/gpshell-1.4.4.tar.gz"
-  sha1 "3efeb92263e881ff0886e73a7b790051a317df61"
+  sha256 "11b3a893e0fca7775124146ee4a798d443eb2fd1058513f6fa6a0be7f73f47a5"
 
   depends_on 'globalplatform'
   depends_on 'gppcscconnectionplugin'
