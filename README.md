@@ -17,3 +17,11 @@ brew tap hui-742369/globalplatform
 brew update
 brew install gpshell
 ```
+
+## Requirement
+
+```
+brew install openssl
+cd /usr/local/include
+ln -s ../opt/openssl/include/openssl .
+```
