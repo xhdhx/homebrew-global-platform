@@ -20,13 +20,13 @@ brew install gpshell
 
 ## Requirement
 
-1. Use brew to install openssl:
+1. Use brew to install openssl
 
   ```
   brew install openssl
   ```
 
-2. Link openssl header and library files manually if brew automatic link failed:
+2. Link openssl header and library files manually if brew link failed
 
   ```
   ln -s /usr/local/opt/openssl/include/openssl /usr/local/include/openssl
