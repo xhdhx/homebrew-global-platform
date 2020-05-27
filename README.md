@@ -5,7 +5,7 @@ Forked from [DylanSchell/homebrew-personal](https://github.com/DylanSchell/homeb
 ## Useage
 
 ```
-brew tap hui-742369/globalplatform
+brew tap xhdhx/globalplatform
 brew update
 brew install globalplatform
 ```
@@ -13,7 +13,7 @@ brew install globalplatform
 or
 
 ```
-brew tap hui-742369/globalplatform
+brew tap xhdhx/globalplatform
 brew update
 brew install gpshell
 ```
